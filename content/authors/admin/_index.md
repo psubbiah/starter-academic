@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Parvathi A Subbiah
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate | University of Cambridge | Gates Cambridge Scholar | Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Cambridge
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD Department of Politics and Political Science, 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Text Mining, Textual Analysis
+- Data Science
+- Discourse in Politics
+- Sociology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Science
+    institution: University of Cambridge
+    year: 2021
+  - course: MPhil in Latin American Studies
+    institution: University of Cambridge
+    year: 2015
+  - course: BM in Voice and Piano Performance
+    institution: Oberlin Conservatory
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
